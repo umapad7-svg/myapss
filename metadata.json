@@ -1,0 +1,6 @@
+{
+  "name": "Syllabus Tracker",
+  "description": "Track syllabus progress across subjects, chapters, and topics with AI syllabus generation, exam countdowns, study goals, analytics, and revision reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
